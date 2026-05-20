@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+This is the version from the current branch.
+It contains text that will conflict.
+=======
+This is the version from the incoming branch.
+It contains alternate text that conflicts.
+>>>>>>> feature-branch
